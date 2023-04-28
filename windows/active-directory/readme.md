@@ -34,3 +34,5 @@ Get-ADUser -Identity !SamAccountName! -Properties *
 ```
 
 ### Scripts
+- [Add Multiple Users](https://github.com/jupitersinsight/sysadminstuff/tree/main/windows/active-directory/add-multiple-users)
+
