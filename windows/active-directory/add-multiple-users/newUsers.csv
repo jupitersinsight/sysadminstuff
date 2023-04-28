@@ -1,0 +1,7 @@
+Name;Surname;Display Name;Mail;Department;Password;OU
+John;Johnson;John Johnson;john.johnson@email.email;Accounting;;
+Mark;Markson;Mark Markson;mark.markson@email.email;Management;;
+Steve;Stevens;Steve Stevens;steve.stevens@email.email;IT;;
+George;Georgeson;George Georgeson;george.georgeson@email.email;IT;;
+Robert;Robertson;Robert Robertson;robert.robertson@email.email;Sales;;
+Paul;Paulson;Paul Paulson;paul.paulson@email.email;;;
