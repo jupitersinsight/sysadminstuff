@@ -7,3 +7,6 @@ To generate multiple random password make use of [ManyTools' Password Generator]
 
 Once the file is ready convert it to CSV format.
 From there copy the .csv file to the root folder (C:\) of the Domain Controller and execute the script from Powershell.
+
+### Inspired by
+- https://www.alitajran.com/create-active-directory-users-from-csv-with-powershell/
