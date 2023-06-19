@@ -1,5 +1,5 @@
 ## Initial setup
-Download and install [Docker Desktop]([Docker Desktop](https://www.docker.com/products/docker-desktop/)).  
+Download and install [Docker Desktop](https://www.docker.com/products/docker-desktop/).  
 Be sure to select WSL as engine for Docker.
 
 ## How to run containers
