@@ -25,9 +25,9 @@ In Windows Terminal yuo can set a default profile to start with as soon as the t
 
 ---------------
   
-## Proxy WSL commmands to be captured in Windows (Burpsuite|ZAP|Other proxy-capable software)
+## WSL commmands through proxy to be captured in Windows proxy programs (Burpsuite, ZAP...)
  
-Since WSL IP addressing is not fixed, in the WSL instance we need to capture the IP assigned to the Windows WSL interface.
+Since WSL IP addressing is not always the same, we need to capture the IP address assigned to the Windows WSL interface which is the nameserver in the WSL instance (nameserver, which is a core element of DNS).  
 ```
 cat /etc/resolv.conf | grep nameserver | awk '{print $2}'
 ```
